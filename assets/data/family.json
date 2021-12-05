@@ -1,0 +1,42 @@
+[{
+    "id": "Andersen_e13fb159-91ae-4819-bed8-83e95de040aa",
+    "lastName": "Andersen",
+    "district": "WA5",
+    "parents": [
+        {
+            "familyName": null,
+            "firstName": "Thomas"
+        },
+        {
+            "familyName": null,
+            "firstName": "Mary Kay"
+        }
+    ],
+    "children": null,
+    "address": {
+        "state": "WA",
+        "county": "King",
+        "city": "Seattle"
+    },
+    "registered": true,
+    "_rid": "uZ8LAM8vWZEBAAAAAAAAAA==",
+    "_self": "dbs/uZ8LAA==/colls/uZ8LAM8vWZE=/docs/uZ8LAM8vWZEBAAAAAAAAAA==/",
+    "_etag": "\"d602f83c-0000-0800-0000-61a5f6370000\"",
+    "_attachments": "attachments/",
+    "_ts": 1638266423
+},{
+    "id": "Smith_31e8819c-f37e-4fdc-a5ab-e7247e125e8c",
+    "lastName": "Smith",
+    "parents": null,
+    "children": null,
+    "address": {
+        "state": "WA",
+        "city": "Redmond"
+    },
+    "registered": true,
+    "_rid": "uZ8LAM8vWZECAAAAAAAAAA==",
+    "_self": "dbs/uZ8LAA==/colls/uZ8LAM8vWZE=/docs/uZ8LAM8vWZECAAAAAAAAAA==/",
+    "_etag": "\"d602fb3c-0000-0800-0000-61a5f6380000\"",
+    "_attachments": "attachments/",
+    "_ts": 1638266424
+}]
