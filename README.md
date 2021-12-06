@@ -152,6 +152,6 @@ An Azure Cosmos container is the fundamental unit of scalability. You can virtua
 
 ## Reference
 1. Microsoft Azure Portal https://ms.portal.azure.com/
-2. Azure Blob Storage Documentation https://docs.microsoft.com/zh-cn/azure/storage/blobs/
+2. Azure Blob Storage Documentation https://docs.microsoft.com/en-us/azure/storage/blobs/
 3. Azure Cosmos DB Documentation https://docs.microsoft.com/en-us/azure/cosmos-db/
 4. Microsoft Learn https://docs.microsoft.com/en-us/learn/
