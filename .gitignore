@@ -253,3 +253,6 @@ paket-files/
 *.sln.iml
 .ipynb_checkpoints/
 assets/.DS_Store
+
+# JetBrains IDEA
+target/
